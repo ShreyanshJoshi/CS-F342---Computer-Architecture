@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Sep 08 08:24:01 2020
+[*]
+[dumpfile] "C:\Users\Shreyansh  Joshi\Desktop\2018A7PS0097G_Lab2.vcd"
+[dumpfile_mtime] "Tue Sep 08 08:16:40 2020"
+[dumpfile_size] 233931
+[savefile] "C:\Users\Shreyansh  Joshi\Desktop\2018A7PS0097G_Lab2.gtkw"
+[timestart] 18
+[size] 1536 801
+[pos] -113 -113
+*-4.107375 114 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 197
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 224
+@25
+testbench.clk
+testbench.outR0[31:0]
+testbench.outR1[31:0]
+testbench.rd0[4:0]
+testbench.rd1[4:0]
+testbench.regWrite
+testbench.reset
+testbench.rs[4:0]
+testbench.rt[4:0]
+testbench.select
+testbench.writeData[31:0]
+testbench.uut.decOut[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
