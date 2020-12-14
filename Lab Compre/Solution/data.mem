@@ -1,0 +1,18 @@
+// Do not make changes to the following data, as the fault signals in the testbench depend on these exact values.
+
+00000008    // n    : number of locations (0x2 onwards)
+00000100    // val  : constant to add
+00000200    // max  : max value to check against
+00000000
+00000100
+00000050
+00000300
+FFFFFF00
+00000200
+000000FF
+00000020
+00000030
+00000000
+00000000
+00000000
+00000000
